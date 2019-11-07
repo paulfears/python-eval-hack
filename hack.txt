@@ -1,1 +1,0 @@
-exec('import os\nwhile True:\n\tprint(os.popen(input(">")).read())')
